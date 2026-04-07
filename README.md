@@ -15,4 +15,4 @@ To showcase my skills, projects, and contact information for job opportunities.
 ## Technologies Used
 - HTML
 - CSS
-- JavaScript
+
